@@ -91,7 +91,7 @@ img:hover {
     font-size: 25px;
     color: white;
 }
-@media (max-width: 800px){
+@media (max-width: 1000px){
     #projects{
         display: flex;
         flex-direction: column;
